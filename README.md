@@ -1,3 +1,3 @@
 This is my CSP Project! I'm an erasmus student I have a lot of problems with the overlapping. This has helped me to learn how to use CSP for a everyday use. My repository includes the slides to present my project, the first report I made, an Excel with the output and a Python file with the code.
-For use the code you should have downloaded and imported the packages constraint, headpq, collections, itertools and pandas.
+For use the code you should have downloaded and imported the packages constraint, headpq, collections, itertools, os and pandas.
 To download the packages, you can do so from the terminal by searching for the Python folder. Once you're in that directory in the terminal, use the pip install "package name" command.
